@@ -2,7 +2,7 @@
  
  ## Current Project
 
-  ### [Parking Lot 🅿️:](https://github.com/gregoryjflaherty/parking_lot)
+  ### [Parking Lot 🅿️](https://github.com/gregoryjflaherty/parking_lot)
 </center>
 
 # About Me
