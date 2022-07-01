@@ -1,8 +1,5 @@
  <div align="center">
- 
- ## Current Project
 
-  ### [Parking Lot 🅿️](https://github.com/gregoryjflaherty/parking_lot)
 </center>
 
 # Technical Skills
