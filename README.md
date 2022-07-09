@@ -27,12 +27,13 @@ A life long learner and developer immersed in a field with vast opportunities. I
 
 
     
-  
-### How To Connect
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gregjflaherty)](https://github.com/gazf/github-readme-twitter) [![linkedin](https://linkedin-github.herokuapp.com/api/render/Greg%20Flaherty/Software%20Engineer/Ruby|SQL|Postman|Rails/Turing%20School%20of%20Software%20and%20Design/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4E03AQF4zxPT9Ba9uQ%2Fprofile-displayphoto-shrink_800_800%2F0%2F1641567761555%3Fe%3D1654128000%26v%3Dbeta%26t%3Dp9o7mGZg06jV6sel0aYj6F7y2DLc6sqediNd5VYNSQ4)](https://www.linkedin.com/in/gregoryjflaherty/)<br>
-[![Linkedin Badge](https://img.shields.io/badge/-GregFlaherty-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gregoryjflaherty/)](https://www.linkedin.com/in/gregoryjflaherty/)<br> 
-[![Gmail Badge](https://img.shields.io/badge/-gregoryjflaherty@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gregoryjflaherty@gmail.com)](mailto:gregoryjflaherty@gmail.com)
 
+### How To Connect
+
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/gregjflaherty.svg?style=social&label=Follow%20%40gregjflaherty)](https://twitter.com/gregjflaherty)
+[![Linkedin Badge](https://img.shields.io/badge/-GregFlaherty-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gregoryjflaherty/)](https://www.linkedin.com/in/gregoryjflaherty/)
+[![Gmail Badge](https://img.shields.io/badge/-gregoryjflaherty@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gregoryjflaherty@gmail.com)](mailto:gregoryjflaherty@gmail.com) <br>
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gregjflaherty)](https://github.com/gazf/github-readme-twitter)
 
 ### My Work
   
