@@ -9,7 +9,7 @@
 
 
           
-A life long learner and developer immersed in a field with vast opportunities. I currently and continously find myself dedicated and driven to contribute to change on a large scale. As a previous substance abuse counselor and mental health advocate/educator, I am dedicated to pivoting the skills I have learned in human services over into the field of technology. Problem solving under high levels of stress, as well as with extremely high stakes, is a skill that has taken years to cultivate. I believe this, as well as the ability to manage, interact, include and provide for people from all walks of life are all skills that I plan to take with me on this lifelong journey.
+Hi everyone! Greg Flaherty here - A life long learner and software developer immersed in a field with vast opportunities. Coding and software development is my passion as it inspires me to constantly be in a state of humility, understanding I always have more room to grow. Problem solving under high levels of stress, as well as with extremely high stakes, is a skill that has taken years to cultivate and one I am proud to say I embrace constantly. I believe this, as well as the ability to manage, interact, include and provide for people from all walks of life are all skills that I plan to take with me on this lifelong journey! 
 
 ### Articles
 [What I Would Do Differently - A Letter To Early Career Developers](https://www.linkedin.com/pulse/what-i-would-do-differently-letter-early-career-greg-flaherty/)
