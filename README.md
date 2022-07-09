@@ -17,8 +17,8 @@ A life long learner and developer immersed in a field with vast opportunities. I
 
 
 ### Current Projects
-[BallParker](https://www.linkedin.com/pulse/what-i-would-do-differently-letter-early-career-greg-flaherty/)<br>
-[JavaScript Exercism](https://www.linkedin.com/pulse/what-i-would-do-differently-letter-early-career-greg-flaherty/)<br>
+[BallParker](https://github.com/gregoryjflaherty/ball_parker)<br>
+[JavaScript Exercism](https://github.com/gregoryjflaherty/javascript_exercisms)<br>
 
 
 ### Technical Skills
