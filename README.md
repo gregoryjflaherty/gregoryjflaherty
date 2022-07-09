@@ -10,8 +10,11 @@ A life long learner and developer immersed in a field with vast opportunities. I
 [What I Would Do Differently - A Letter To Early Career Developers](https://www.linkedin.com/pulse/what-i-would-do-differently-letter-early-career-greg-flaherty/)
 
 
-
+<br>
 ### Current Projects
+[BallParker](https://www.linkedin.com/pulse/what-i-would-do-differently-letter-early-career-greg-flaherty/)<br>
+[JavaScript Exercism](https://www.linkedin.com/pulse/what-i-would-do-differently-letter-early-career-greg-flaherty/)<br>
+
 
 # Technical Skills
 <div align="center">
