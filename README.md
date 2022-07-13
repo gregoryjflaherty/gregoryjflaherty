@@ -18,7 +18,7 @@ Hi everyone! Greg Flaherty here - A life long learner and software developer imm
 
 ### Current Projects
 [BallParker](https://github.com/gregoryjflaherty/ball_parker)<br>
-[JavaScript Exercism](https://github.com/gregoryjflaherty/javascript_exercisms)<br>
+
 
 
 ### Technical Skills
