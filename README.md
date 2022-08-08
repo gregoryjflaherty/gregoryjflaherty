@@ -16,7 +16,7 @@ Hi everyone! Greg Flaherty here - A life long learner and software developer! Co
 
 
 ### Current Projects
-[BallParker](https://github.com/gregoryjflaherty/ball_parker)<br>
+[Sales Manager](https://github.com/gregoryjflaherty/sales_manager)<br>
 
 
 
