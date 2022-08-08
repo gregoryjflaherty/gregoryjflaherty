@@ -2,14 +2,13 @@
 
 </center>
 
-<img src="https://user-images.githubusercontent.com/87443686/178107843-e8e5d1a8-4420-43a9-b13d-d9dc976e2142.jpeg" width="280"/>
 
 
 <br>
 
 
           
-Hi everyone! Greg Flaherty here - A life long learner and software developer immersed in a field with vast opportunities. Coding and software development is my passion as it inspires me to constantly be in a state of humility, understanding I always have more room to grow. Problem solving under high levels of stress, as well as with extremely high stakes, is a skill that has taken years to cultivate and one I am proud to say I embrace constantly. I believe this, as well as the ability to manage, interact, include and provide for people from all walks of life are all skills that I plan to take with me on this lifelong journey! 
+Hi everyone! Greg Flaherty here - A life long learner and software developer! Coding and software development is my passion as it inspires me to constantly be in a state of humility, understanding I always have more room to grow. Please checkout my work and dont forget to connect ! 
 
 ### Articles
 [What I Would Do Differently - A Letter To Early Career Developers](https://www.linkedin.com/pulse/what-i-would-do-differently-letter-early-career-greg-flaherty/)
