@@ -2,6 +2,15 @@
 
 </center>
 
+# Hi, I'm Greg Flaherty 
+
+![](https://komarev.com/ghpvc/?username=gregoryjflaherty) <br>
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/gregjflaherty.svg?style=social&label=Follow%20%40gregjflaherty)](https://twitter.com/gregjflaherty)
+[![Linkedin Badge](https://img.shields.io/badge/-GregFlaherty-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gregoryjflaherty/)](https://www.linkedin.com/in/gregoryjflaherty/)
+[![Gmail Badge](https://img.shields.io/badge/-gregoryjflaherty@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gregoryjflaherty@gmail.com)](mailto:gregoryjflaherty@gmail.com) <br>
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gregjflaherty)](https://github.com/gazf/github-readme-twitter)
+
+
 
 
 <br>
