@@ -19,7 +19,7 @@
 🎾 Sports fanatic (Djokovic/Chargers/Padres/Lakers/Kings)<br>
 :chess_pawn: Avid Chess player ! [Request a match here](https://www.chess.com/member/gregflaherty) <br>
 :diving_mask: I love scuba diving and getting into the ocean ! <br>
-:keyboard: Current project I am working on is: [Cable Packager](https://github.com/gregoryjflaherty/cable_packager)
+:keyboard: Current project I am working on is: [TBD](https://github.com/gregoryjflaherty/)
  
 
 
