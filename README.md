@@ -11,18 +11,6 @@
 
  <div align="left">
 
-## About Me 
-
-
-🖥️ Software Engineer <br>
-😄 Pronouns: He/him <br>
-🎾 Sports fanatic (Djokovic/Chargers/Padres/Lakers/Kings)<br>
-:chess_pawn: Avid Chess player ! [Request a match here](https://www.chess.com/member/gregflaherty) <br>
-:diving_mask: I love scuba diving and getting into the ocean ! <br>
-:keyboard: Current project I am working on is: [Story Books](https://github.com/gregoryjflaherty/story_books)
- 
-
-
 
 
 ## 🚀 Latest Blog Posts
