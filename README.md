@@ -3,6 +3,7 @@
 
 
 # Hi, I'm Greg Flaherty 
+ Software Developer II at Charter Communications
 
 ![](https://komarev.com/ghpvc/?username=gregoryjflaherty) <br>
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/gregjflaherty.svg?style=social&label=Follow%20%40gregjflaherty)](https://twitter.com/gregjflaherty)
